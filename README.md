@@ -62,6 +62,20 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/jardim-arthur](https://github.com/ArthurJardimSouza)">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="SEU">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="SEU_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
+
 </td>
 </tr>
 </table>
