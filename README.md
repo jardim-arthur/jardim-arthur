@@ -51,7 +51,7 @@ Sou um desenvolvedor curioso de tecnologia, sempre buscando aprender mais e cria
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jardim-arthur&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jardim-arthur&theme=dark&background=0D1117&ring=EF4444&fire=FACC15&currStreakLabel=FACC15&sideLabels=EF4444&dates=FDE68A&hide_border=true)](https://git.io/streak-stats)
 
 </td>
 </tr>
